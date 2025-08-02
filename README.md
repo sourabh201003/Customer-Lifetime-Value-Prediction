@@ -1,4 +1,4 @@
-📊 Customer Lifetime Value Prediction
+📊 Customer Lifetime Value Prediction: 
 This project focuses on predicting Customer Lifetime Value (CLV) using historical customer transaction data. CLV is a critical metric in marketing and business strategy, as it helps identify high-value customers and optimize resource allocation for customer acquisition and retention.
 
 Project Overview
